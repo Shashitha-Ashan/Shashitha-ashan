@@ -8,5 +8,5 @@
 
 - 💬 Ask me about **Arduino, Java, Flutter, JavaScript**
 
-- 📫 How to reach me **shashithaashan555@gmail.com**
+
 

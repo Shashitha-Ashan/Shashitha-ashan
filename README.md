@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning as an undergraduate
 
 - 💬 Ask me about **Arduino, Java, Flutter, JavaScript**
+### 🌱 My Contributions So Far!
 
+![github stats](https://github-readme-stats.vercel.app/api?username=Shashitha-Ashan&show_icons=true)
+  <br>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashitha-Ashan&show_icons=true&layout=donut-vertical)
+  <br>
 
 

@@ -4,7 +4,7 @@
 </div>-->
 <h1 align="center">Hi 👋, I'm shashitha ashan</h1>
 <h3 align="center">A passionate mobile and web developer from Sri lanka</h3>
-🌱 I’m currently learning Docker
+🌱 I’m currently learning Spring boot
 
 ### 🌱 My Contributions So Far!
 
@@ -13,7 +13,7 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashitha-Ashan&show_icons=true&layout=donut-vertical)
   <br>
 ## Connect with me
-- [LinkedIn](www.linkedin.com/in/shashitha-ashan)
+- <a href="https://www.linkedin.com/in/shashitha-ashan" target="_blank">LinkedIn</a>
 
   ## Skills
 

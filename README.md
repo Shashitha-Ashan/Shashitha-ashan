@@ -18,16 +18,19 @@
   ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java,dart,cs)
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java,dart,cs,kotlin,ts)
 
 #### Frontend (Web)
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,materialui)
 
 #### Frontend (Mobile)
-![Frontend Technologies](https://skillicons.dev/icons?i=flutter)
+![Frontend Technologies](https://skillicons.dev/icons?i=flutter,androidstudio)
 
 #### Backend 
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,spring&perline=3)](https://skillicons.dev)
+
+#### Micro controllers
+![Micro controllers](https://skillicons.dev/icons?i=arduino)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
@@ -36,6 +39,6 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,githubactions)
+![Others](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,githubactions,docker,kafka,visualstudio)
 
 

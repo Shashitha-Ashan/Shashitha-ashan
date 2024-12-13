@@ -13,7 +13,7 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashitha-Ashan&show_icons=true&layout=donut-vertical)
   <br>
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/shashitha-ashan-6415a128a)
+- [LinkedIn](www.linkedin.com/in/shashitha-ashan)
 
   ## Skills
 
